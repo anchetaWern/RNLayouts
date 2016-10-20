@@ -2,7 +2,8 @@ import React, { Component } from 'react';
 
 import VerticalStackLayoutManual from './layouts/VerticalStackLayoutManual';
 import VerticalStackLayoutFlex from './layouts/VerticalStackLayoutFlex';
-/* comment out on use
+/* 
+//comment out on use
 import VerticalStackLayoutHeaderContentFooter from './layouts/VerticalStackLayoutHeaderContentFooter';
 import HorizontalStackLayout from './layouts/HorizontalStackLayout';
 import JustifyContent from './layouts/JustifyContent';

@@ -36,7 +36,7 @@ const styles = StyleSheet.create({
   },
   header: {
     height: 40,
-    position: 'fixed',
+    position: 'absolute',
     left: 0,
     right: 0,
     top: 0,
@@ -50,7 +50,7 @@ const styles = StyleSheet.create({
   },
   footer: {
     height: 40,
-    position: 'fixed',
+    position: 'absolute',
     left: 0,
     right: 0,
     bottom: 0,
